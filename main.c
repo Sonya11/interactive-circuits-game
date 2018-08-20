@@ -22,10 +22,6 @@
 //Stucture initialization
 Graphics_Context lcd_context;
 
-//Description	Resource	Path	Location	Type
-//unresolved symbol GPIO_setAsOutputPin, first referenced in ./LcdDriver/HAL_MSP_EXP432P401R_Crystalfontz128x128_ST7735.obj	Final Project		 	C/C++ Problem
-
-
 //Global variables
 uint8_t blue_screen = 0;
 uint8_t game_state = 0;
