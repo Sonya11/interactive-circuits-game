@@ -2,7 +2,7 @@
  * port.c
  *
  *  Created on: Sep 19, 2017
- *      Author: lemmo
+ *   
  */
 #include "msp.h"
 #include "port.h"
