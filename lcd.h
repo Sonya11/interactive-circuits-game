@@ -2,7 +2,7 @@
  * lcd.h
  *
  *  Created on: Nov 25, 2017
- *      Author: sonya
+ *  
  */
 
 #ifndef LCD_H_
