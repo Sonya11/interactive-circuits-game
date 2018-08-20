@@ -3,7 +3,7 @@
  * Basic default port configuration according to Overview - Table 4.4 (Connection for Unused Pins)
  *
  *  Created on: Sep 12, 2017
- *      Author: lemmo
+ *  
  */
 #include "msp.h"
 
