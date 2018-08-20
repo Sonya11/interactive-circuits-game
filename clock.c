@@ -2,7 +2,7 @@
  * clock.c
  *
  *  Created on: Oct 10, 2017
- *      Author: lemmo
+ *    
  */
 
 #include "msp.h"
