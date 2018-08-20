@@ -2,7 +2,7 @@
  * clock.h
  *
  *  Created on: Oct 10, 2017
- *      Author: lemmo
+ *   
  */
 
 #ifndef CLOCK_H_
