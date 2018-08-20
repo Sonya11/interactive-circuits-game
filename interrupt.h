@@ -2,7 +2,7 @@
  * interrupt.h
  *
  *  Created on: Oct 20, 2017
- *      Author: lemmo
+ *    
  */
 
 #ifndef INTERRUPT_H_
