@@ -2,7 +2,7 @@
  * game.h
  *
  *  Created on: Nov 30, 2017
- *      Author: ryan
+ *      
  */
 
 #ifndef GAME_H_
