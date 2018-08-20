@@ -2,7 +2,7 @@
  * default.h
  *
  *  Created on: Sep 12, 2017
- *      Author: lemmo
+ *      
  */
 
 #ifndef DEFAULT_H_
