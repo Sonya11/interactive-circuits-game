@@ -2,7 +2,7 @@
  * timer.h
  *
  *  Created on: Oct 31, 2017
- *      Author: lemmo
+ *      
  */
 
 #ifndef TIMER_H_
