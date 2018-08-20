@@ -2,7 +2,7 @@
  * lcd.c
  *
  *  Created on: Nov 25, 2017
- *      Author: sonya
+ *   
  */
 
 #include "lcd.h"
