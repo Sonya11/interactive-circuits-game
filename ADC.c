@@ -3,7 +3,7 @@
  * ADC.c
  *
  *  Created on: Nov 28, 2017
- *      Author: ryan
+ *     
  */
 
 #include "ADC.h"
