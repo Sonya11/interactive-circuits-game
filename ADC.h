@@ -2,7 +2,7 @@
  * ADC.h
  *
  *  Created on: Nov 28, 2017
- *      Author: ryan
+ *    
  */
 
 #ifndef ADC_H_
